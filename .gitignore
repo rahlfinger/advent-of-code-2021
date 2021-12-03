@@ -1,2 +1,9 @@
 
 1/aggregates.txt
+2/*/b__*
+2/*/part1
+2/*/*.stderr
+2/*/*.stdout
+2/*/*.ali
+2/*/*.bexch
+2/*/*.o
