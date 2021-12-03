@@ -2,6 +2,7 @@
 1/aggregates.txt
 2/*/b__*
 2/*/part1
+2/*/part2
 2/*/*.stderr
 2/*/*.stdout
 2/*/*.ali
