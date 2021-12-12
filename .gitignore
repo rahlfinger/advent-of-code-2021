@@ -12,3 +12,10 @@
 3/src/part2
 5/src/part2
 5/src/part1
+*.hi
+*.o
+10/src/part1
+Haskell
+12
+11/src/part1
+11/src/part2
