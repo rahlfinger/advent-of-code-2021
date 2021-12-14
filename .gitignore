@@ -1,21 +1,14 @@
 
 1/aggregates.txt
 2/*/b__*
-2/*/part1
-2/*/part2
 2/*/*.stderr
 2/*/*.stdout
 2/*/*.ali
 2/*/*.bexch
 2/*/*.o
-3/src/part1
-3/src/part2
-5/src/part2
-5/src/part1
+**/src/part1
+**/src/part2
 *.hi
 *.o
-10/src/part1
 Haskell
-12
-11/src/part1
-11/src/part2
+13
